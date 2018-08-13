@@ -1,1 +1,1 @@
-# backpropagation.c
+# backpropagation_xor.c
